@@ -1,0 +1,19 @@
+{
+    "name": "asrock/phppoo",
+    "authors": [
+        {
+            "name": "Alan",
+            "email": "alancardosos@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\":"app"
+        },
+
+        "files":[
+            
+        ]
+    }
+}
